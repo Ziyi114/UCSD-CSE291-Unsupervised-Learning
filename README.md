@@ -1,4 +1,4 @@
-# UCSD-291-Unsupervised-Learning
+# UCSD-CSE291-Unsupervised-Learning
 
 Hi! This is all my homework for course UCSD CSE291 SP23 Unsupervised Learning.
 
